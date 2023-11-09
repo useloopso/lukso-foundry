@@ -4,7 +4,7 @@ pragma solidity ^0.8.4;
 // modules
 import {
     Initializable
-} from "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
+} from "@openzeppelin-contracts-upgradeable/proxy/utils/Initializable.sol";
 import {OwnableUnset} from "./custom/OwnableUnset.sol";
 import {ERC725YCore} from "./ERC725YCore.sol";
 
