@@ -2,9 +2,7 @@
 pragma solidity ^0.8.4;
 
 // interfaces
-import {
-    IERC725Y
-} from "@erc725/smart-contracts/contracts/interfaces/IERC725Y.sol";
+import {IERC725Y} from "../ERC725/interfaces/IERC725Y.sol";
 
 /**
  * @title LSP2 Utility library.
